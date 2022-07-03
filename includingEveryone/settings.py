@@ -44,7 +44,7 @@ INSTALLED_APPS = [
     'app.apps.AppConfig',
     'embed_video',
     'fontawesomefree',
-    'django_heroku'
+    'django_heroku',
 ]
 
 MIDDLEWARE = [
